@@ -1,2 +1,2 @@
-final version
+std version
 new code version 2
